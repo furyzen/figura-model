@@ -6,7 +6,7 @@ vanilla_model.ARMOR:setVisible(true)
 vanilla_model.HELMET:setVisible(false)
 
 --hide vanilla cape model
-vanilla_model.CAPE:setVisible(false)
+vanilla_model.CAPE:setVisible(true)
 --hide vanilla elytra model
 vanilla_model.ELYTRA:setVisible(false)
 
